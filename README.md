@@ -2,7 +2,7 @@
 Um serviço de Magic8Ball com um LoadBalancer na Amazon AWS (EC2)
 
 
-## How to run
+## Como rodar?
 
 Coloque suas credenciais da aws no arquivo ```credentials.json```.
 
