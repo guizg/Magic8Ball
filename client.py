@@ -11,7 +11,6 @@ with open('ip.json') as f:
 
 
 IP = IPjson["ip"]
-print(IP)
 URL = 'http://'+IP+':5000'
 
 
