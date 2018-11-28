@@ -8,6 +8,8 @@ Coloque suas credenciais da aws no arquivo ```credentials.json```.
 
 Rode ```python3 deployer.py```
 
+Vá tomar um café.
+
 Rode ```python3 client.py <sua pergunta>```
 
 Exemplos:
